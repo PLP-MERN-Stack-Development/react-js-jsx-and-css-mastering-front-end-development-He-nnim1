@@ -56,7 +56,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 1. Make sure you have Node.js installed (v18 or higher recommended)
 2. Use the provided starter files in this repository
 3. Install the required dependencies:
-   ```
+   ``` 
    npm install
    ```
 4. Start the development server:
