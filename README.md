@@ -27,7 +27,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ### Footer
 ![Footer](./images/screenshot3.png)
 
-### Dak Mode
+### Dark Mode
 ![Dark Mode](./images/screenshot4.png)
 
 
