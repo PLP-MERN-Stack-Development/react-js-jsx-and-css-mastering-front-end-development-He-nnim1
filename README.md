@@ -21,18 +21,20 @@ If you are developing a production application, we recommend using TypeScript wi
 ### Task Manager
 ![Task Manager](./images/screenshot1.png)
 
-### Api Data
-![Api Data](./images/screenshot2.png)
-
-### Footer
-![Footer](./images/screenshot3.png)
-
 ### Dark Mode
-![Dark Mode](./images/screenshot4.png)
+![Dark Mode](./images/screenshot2.png)
+
+### Api Data
+![Api Data](./images/screenshot3.png)
+
+### Pagination
+![Pagination](./images/screenshot4.png)
+
+
 
 
 
 ## Deploy URL
-https://react-js-jsx-and-css-mastering-front-end-8e8h.onrender.com
+hennim.netlify.app
 
 
